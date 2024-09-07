@@ -1,0 +1,9 @@
+.... Real Time Weather App Project ....
+
+>>What I Learn From This Project:
+1. Implementation Of  Custom hook
+2. Fetching Data Through Api Call.
+3. Various Implementations Of Utility Functions
+4. Using Some New Web Apis like i.navigator.geolocation.getCurrentPosition() , ii.new Intl.DateTimeFormat("en-us", options).format()
+5. Using Debouncing 
+6. Deploying The Project into Vercel and Creating Live Link.

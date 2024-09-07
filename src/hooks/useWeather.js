@@ -39,6 +39,7 @@ export const useWeather = () => {
           import.meta.env.VITE_WEATHER_API_KEY
         }&units=metric`
       );
+      console.log(response);
       if (!response.ok) {
         const errorMessage = `Fetching Weather Data Failed :${response.status}`;
 
